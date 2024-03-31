@@ -35,7 +35,7 @@ export function Faq(){
         <div className="flex flex-col w-full py-[48px] lg:py-[60px] lg:flex-row lg:gap-x-[24px]">
             <div className='lg:w-1/3 lg:py-[32px] lg:pr-[56px]'>
                 <h3 className="text-[#EB2891] font-medium text-[14px] lg:text-base">Frequently Asked Questions</h3>
-                <h1 className="text-[#172026] font-medium py-4 text-2xl lg:text-[42px] lg:leading-[58px]">Let's clarify some of your questions</h1>
+                <h1 className="text-[#172026] font-medium py-4 text-2xl lg:text-[42px] lg:leading-[58px]">Lets clarify some of your questions</h1>
                 <p className="text-[#36485C] font-normal pb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
             </div>
 
